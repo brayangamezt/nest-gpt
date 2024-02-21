@@ -3,7 +3,6 @@
 /node_modules
 
 #Package JSON dependencis
-package-lock.json
 
 
 #Enviroment variables
